@@ -8,8 +8,7 @@ Use this markdown file to write the contents of your webpage. Below is an outlin
 
 Introduce the project:
 - Users can choose to help the character face the truth or let the character stay in his/her own world of make-believed.
-- What is the goal? Try to give the character the happy ending...or there is no happy ending...:D How to achieve it? Follow your heart and make decision.
-- (There are 3 endings.) 1.self-awakening 2.happy ending...?:D 3.face the reality
+- What is the goal? Help traveler find the way out!
 - Make people want to read more about your project!
 
 
